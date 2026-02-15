@@ -1,0 +1,9 @@
+{
+  "framework": "vite",
+  "buildCommand": "npm install && npx vite build",
+  "outputDirectory": "dist/public",
+  "installCommand": "npm install",
+  "env": {
+    "VITE_API_URL": "https://infravision-backend.onrender.com"
+  }
+}
