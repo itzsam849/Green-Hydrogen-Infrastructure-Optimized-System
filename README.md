@@ -188,14 +188,6 @@ OPENWEATHER_API_KEY=your_openweathermap_api_key
 
 ---
 
-## 👥 Team NPHard
-
-* **Leader:** Patel Priyank  
-* Patel Yug  
-* Patel Prince  
-* Maalav Patadiya  
-
----
 
 ## 📌 Next Steps
 
@@ -221,3 +213,4 @@ MIT License – free to use, modify, and distribute.
 ## 🙏 Thank You
 
 Thank you for exploring **Green Hydrogen InfraVision**. Together, let's accelerate the green hydrogen revolution!  
+
